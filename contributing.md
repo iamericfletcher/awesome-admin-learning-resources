@@ -12,6 +12,8 @@ This project welcomes any kind of contribution! Here are a few suggestions:
 
 Have a favorite piece you're not seeing here? Want to contribute? Make a [pull request (PR)](https://github.com/iamericfletcher/awesome-admin-learning-resources/pulls)! 😄
 
+If you are not comfortable with creating a GitHub account and initiating a PR, please feel free to email your properly formatted contributions to <EricFletcher3@gmail.com>.
+
 - Before creating a PR, you should ensure that:
 
   1. Your suggestion is related to the `Administrative Professional` field. This list is meant for the curation of the best resources, not everything.
