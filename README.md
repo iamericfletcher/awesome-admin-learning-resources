@@ -1,4 +1,4 @@
-# awesome-admin-learning-resources
+# Awesome-Admin-Learning-Resources
 A curated collection of learning resources to help you become a better Administrative Professional . Updated regularly. Contributions encouraged via pull request (see contributing.md).
 
 
