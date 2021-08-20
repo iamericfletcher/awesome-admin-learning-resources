@@ -2,7 +2,7 @@
 
 <div align="center">
 	<div>
-		<a href=https://www.r-project.org/about.html><img width="400" id="im" src=https://user-images.githubusercontent.com/64165327/130275836-83bf8126-6dd1-4324-ad66-add08ade1125.png></a>
+		<img width="400" id="im" src=https://user-images.githubusercontent.com/64165327/130275836-83bf8126-6dd1-4324-ad66-add08ade1125.png>
 	</div>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
