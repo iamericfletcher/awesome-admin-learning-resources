@@ -110,6 +110,6 @@
 - [Example Learning Resouce](https://www.google.com/) - Brief description would go here.
 
 ## Contributing
-- Your contributions are always welcome! Please visit our [contributing.md](https://github.com/iamericfletcher/awesome-admin-learning-resources/blob/main/code_of_conduct.md) to learn how to contribute to this list.
+- Your contributions are always welcome! Please visit our [contributing.md](https://github.com/iamericfletcher/awesome-admin-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
 
 [Back to Top](#contents)
