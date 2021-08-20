@@ -12,36 +12,9 @@ A curated collection of learning resources to help you become a better Administr
 
 <br>
 
-> The `Awesome R Learning Resources` repository is meant to help users from all skill levels and backgrounds deepen their understanding of `R`, which is a programming language and environment for statistical computing and graphics.
+> The `Awesome Admin Learning Resources` repository is meant to help Administrative Professionals from all skill levels and backgrounds develop their skillset through the centralization of quality learning resources.  
 
 <br>
-
-> The `R` `Discord` server is a friendly and dedicated community for `R` enthusiasts, programmers, statisticians, data scientists, and students. Whether you are looking to connect with fellow useRs, have awesome data viz to share, or just needed help with your stats assignment, you are at the right place! 
-
-<div align="center">
-	To join the R Discord server, please click the discoRd badge below. <br>
-<a href="https://discord.gg/6fcReuUHgg">
-<img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
-<br>
-</div>
-<br>
-
-<div align="center">
-
-Black Lives Matter.
-<br>
-Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/donations.html) today.
-<br>
-<br>
-The racism and hate crimes toward Asian Americans must end.
-<br>
-Please consider making a [donation in support of Asian communites](https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html) today.
-<br>
-</div>
-
-<br>
-
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
 
 ## **Contents**
 - [Topic Areas](#topic-areas)
